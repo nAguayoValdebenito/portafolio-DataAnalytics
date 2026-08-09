@@ -1,10 +1,8 @@
 # Predicción Climática y Segmentación — Agroinnova
 
-**Proyecto BIY7121 · Entrega Integrada G4**
-
 Sistema de análisis de datos climáticos para apoyar decisiones agrícolas: riego preventivo, protección de cultivos y prevención de heladas.
 
-**Integrantes:** Josefa Quirilao · Nicolás Aguayo
+**Hecho por:** Nicolás Aguayo
 **Versión:** 2.0 (Integración Entregas 2 y 3)
 
 ---
