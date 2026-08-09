@@ -4,7 +4,7 @@ Sistema de análisis de datos climáticos para apoyar decisiones agrícolas: rie
 
 **Hecho por:** Nicolás Aguayo
 
-**Versión:** 2.0 (Integración Entregas 2 y 3)
+**Versión:** 2.0
 
 ---
 
